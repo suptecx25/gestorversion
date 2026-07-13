@@ -1,2 +1,0 @@
-# gestorversion
-updatesGestor
