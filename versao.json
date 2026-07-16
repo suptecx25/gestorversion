@@ -1,6 +1,6 @@
 {
-  "versao": "1.3.1",
-  "url_download": "https://github.com/suptecx25/gestorversion/releases/download/v1.3.1/RhonixFolha.exe",
-  "sha256": "a864870612a370ef07c02285be9e5b99f17db0e8f54cb7535139823200f0d602",
-  "notas": "upload de download"
+  "versao": "1.3.6",
+  "url_download": "https://github.com/suptecx25/gestorversion/releases/download/v1.3.6/RhonixFolha.exe",
+  "sha256": "635581b4b4af4ad5d881c30bb5a0d541a097801e4a1eec708e696eff37665645",
+  "notas": "correção de Downloads, e relatórios"
 }
